@@ -1,0 +1,201 @@
+streaming_integration_connectionerror | خطأ في الاتصال!
+streaming_integration_nextvotein | التصويت التالي بعد $0 ث
+streaming_integration_voteendsin | ينتهي التصويت بعد $0 ث
+streaming_integration_votetie | تعادل! يختار فائز عشوائي
+streaming_integration_winner | الفائز هو:
+streamingevent_speedy_enemies | مخلوقات سريعة
+streamingeventdesc_speedy_enemies | المخلوقات القريبة تتحرك أسرع
+streamingevent_protect_enemies | حماية المخلوقات
+streamingeventdesc_protect_enemies | المخلوقات القريبة تصد مؤقتا كل الضرر الوارد
+streamingevent_teleporting_enemies | مخلوقات متنقلة
+streamingeventdesc_teleporting_enemies | المخلوقات القريبة تبدأ بالانتقال آنيا هنا وهناك
+streamingevent_polymorph_enemies | تحويل المخلوقات
+streamingeventdesc_polymorph_enemies | المخلوقات القريبة تتحول إلى كائنات عشوائية
+streamingevent_tiny_ghost_player | استدعاء أشباح صديقة
+streamingeventdesc_tiny_ghost_player | تحصل على بضعة أشباح صغيرة صديقة
+streamingevent_tiny_ghost_enemy | استدعاء أشباح معادية
+streamingeventdesc_tiny_ghost_enemy | المخلوقات القريبة تحصل على أشباح صغيرة صديقة
+streamingevent_homing_enemy_projectiles | توجيه للأعداء
+streamingeventdesc_homing_enemy_projectiles | مقذوفات الأعداء القريبين تتسارع نحوك
+streamingevent_health_plus | صحة زائدة
+streamingeventdesc_health_plus | تكسب 80 نقطة صحة
+streamingevent_health_minus | صحة ناقصة
+streamingeventdesc_health_minus | تخسر 40 نقطة صحة
+streamingevent_max_health_plus | أقصى صحة زائدة
+streamingeventdesc_max_health_plus | تكسب 50 من أقصى صحة
+streamingevent_max_health_minus | أقصى صحة ناقصة
+streamingeventdesc_max_health_minus | تخسر 25 من أقصى صحة
+streamingevent_regeneration_field | حقل التجدد
+streamingeventdesc_regeneration_field | تمنح حقلا مجددا للصحة
+streamingevent_protect_player | خلود مؤقت
+streamingeventdesc_protect_player | تصبح منيعا لبعض الوقت
+streamingevent_shield_enemies | مخلوقات بدروع
+streamingeventdesc_shield_enemies | كل المخلوقات تحصل على درع
+streamingevent_shield_player | درع صديق
+streamingeventdesc_shield_player | تحصل على درع
+streamingevent_faster_player | حركة سريعة
+streamingeventdesc_faster_player | تتحرك أسرع لفترة
+streamingevent_slimy_player | وحل
+streamingeventdesc_slimy_player | الجميع يتغطى بالوحل
+streamingevent_wet_player | حمام
+streamingeventdesc_wet_player | تظهر فوقك غيمة ممطرة
+streamingevent_oiled_player | لمعان
+streamingeventdesc_oiled_player | تظهر فوقك غيمة زيت
+streamingevent_drunk_player | خمر
+streamingeventdesc_drunk_player | تسكر
+streamingevent_drunk_enemies | مخلوقات سكرى
+streamingeventdesc_drunk_enemies | المخلوقات القريبة تسكر
+streamingevent_spell_refresh | تجديد التعاويذ
+streamingeventdesc_spell_refresh | تجدد تعاويذك
+streamingevent_sea_of_x | بحر عشوائي
+streamingeventdesc_sea_of_x | يستدعى بحر هائل من سائل عشوائي
+streamingevent_sea_of_water | بحر من الماء
+streamingeventdesc_sea_of_water | يستدعى بحر هائل من الماء
+streamingevent_sea_of_oil | بحر من الزيت
+streamingeventdesc_sea_of_oil | يستدعى بحر هائل من الزيت
+streamingevent_sea_of_lava | بحر من الحمم
+streamingeventdesc_sea_of_lava | يستدعى بحر هائل من الحمم
+streamingevent_nuke | بوم!
+streamingeventdesc_nuke | احتم!
+streamingevent_spawn_worm | استدعاء دودة
+streamingeventdesc_spawn_worm | تظهر دودة هائلة
+streamingevent_spawn_shopkeeper | استدعاء ستيفاري
+streamingeventdesc_spawn_shopkeeper | يظهر ستيفاري
+streamingevent_bouncy_shots | تعاويذ مرتدة
+streamingeventdesc_bouncy_shots | تصبح مقذوفاتك مرتدة لفترة
+streamingevent_boomerang_shots | تعاويذ بوميرانغ
+streamingeventdesc_boomerang_shots | تعود مقذوفاتك إليك لفترة
+streamingevent_fizzle | تعاويذ فاشلة
+streamingeventdesc_fizzle | لمقذوفاتك فرصة أن تخمد لفترة
+streamingevent_explosive_projectile | تعاويذ متفجرة
+streamingeventdesc_explosive_projectile | تصبح مقذوفاتك متفجرة لفترة
+streamingevent_give_wand_to_enemy | مخلوق مسلح
+streamingeventdesc_give_wand_to_enemy | مخلوق قريب يحصل على عصا عشوائية
+streamingevent_give_wand_to_player | عصا جديدة
+streamingeventdesc_give_wand_to_player | تظهر عصا عشوائية
+streamingevent_remove_liquid | إزالة السوائل
+streamingeventdesc_remove_liquid | تختفي كل السوائل القريبة
+streamingevent_remove_ground | إزالة الأرض
+streamingeventdesc_remove_ground | تختفي كل الأرض الصلبة القريبة
+streamingevent_berserk | غضب
+streamingeventdesc_berserk | الجميع يهيج
+streamingevent_fireball_thrower_player | قاذف الكرات النارية
+streamingeventdesc_fireball_thrower_player | تبدأ بقذف كرات نارية لفترة
+streamingevent_fireball_thrower_enemies | مخلوقات قاذفة للكرات النارية
+streamingeventdesc_fireball_thrower_enemies | المخلوقات تبدأ بقذف كرات نارية لفترة
+streamingevent_spawn_chest | غنيمة!
+streamingeventdesc_spawn_chest | يظهر صندوق!
+streamingevent_transform_giga_discs | مناشير عملاقة في كل مكان
+streamingeventdesc_transform_giga_discs | لفترة، تصبح كل المقذوفات مناشير عملاقة(!)
+streamingevent_transform_nukes | المقذوفات إلى قنابل نووية
+streamingeventdesc_transform_nukes | كل المقذوفات الطائرة تصبح قنابل نووية(!!!)
+streamingevent_rain_gold | مطر الكنوز
+streamingeventdesc_rain_gold | إنها تمطر ذهبا
+streamingevent_rain_barrel | مطر البراميل
+streamingeventdesc_rain_barrel | براميل ومتفجرات أخرى تظهر من العدم
+streamingevent_rain_hiisi | مطر الهيسي
+streamingeventdesc_rain_hiisi | مجموعة من الهيسي تظهر من العدم
+streamingevent_rain_worm | مطر الديدان
+streamingeventdesc_rain_worm | ديدان تظهر من العدم
+streamingevent_rain_potion | مطر الجرعات
+streamingeventdesc_rain_potion | جرعات تظهر من العدم
+streamingevent_rain_bomb | مطر القنابل
+streamingeventdesc_rain_bomb | قنابل تظهر من العدم
+streamingevent_gravity_player | حقل جاذبية شخصي
+streamingeventdesc_gravity_player | تجذب المقذوفات لفترة
+streamingevent_gravity_enemies | حقل جاذبية المخلوقات
+streamingeventdesc_gravity_enemies | المخلوقات تبدأ بجذب المقذوفات لفترة
+streamingevent_portal_east | بوابة إلى الشرق
+streamingeventdesc_portal_east | بوابة تؤدي إلى مكان بعيد
+streamingevent_portal_beginning | بوابة إلى السطح
+streamingeventdesc_portal_beginning | بوابة تؤدي إلى السطح
+streamingevent_portal_random | بوابة إلى مكان ما
+streamingeventdesc_portal_random | بوابة تؤدي إلى مكان ما
+streamingevent_slow_enemies | مخلوقات بطيئة
+streamingeventdesc_slow_enemies | المخلوقات تتباطأ
+streamingevent_slow_player | تباطؤ
+streamingeventdesc_slow_player | تتباطأ
+streamingevent_trail_water | أثر الماء
+streamingeventdesc_trail_water | تترك مقذوفاتك أثرا من الماء
+streamingevent_trail_oil | أثر الزيت
+streamingeventdesc_trail_oil | تترك مقذوفاتك أثرا من الزيت
+streamingevent_trail_acid | أثر الحمض
+streamingeventdesc_trail_acid | تترك مقذوفاتك أثرا من الحمض
+streamingevent_trail_fire | أثر النار
+streamingeventdesc_trail_fire | تترك مقذوفاتك أثرا من النار
+streamingevent_trail_lava | أثر الحمم
+streamingeventdesc_trail_lava | تترك مقذوفاتك أثرا من الحمم
+streamingevent_trail_poison | أثر السم
+streamingeventdesc_trail_poison | تترك مقذوفاتك أثرا من السم
+streamingevent_trail_gunpowder | أثر البارود
+streamingeventdesc_trail_gunpowder | تترك مقذوفاتك أثرا من البارود
+streamingevent_trail_alcohol | أثر الكحول
+streamingeventdesc_trail_alcohol | تترك مقذوفاتك أثرا من الكحول
+streamingevent_player_trip | هلوسة
+streamingeventdesc_player_trip | تهلوس
+streamingevent_transmutation | تحويل المواد
+streamingeventdesc_transmutation | المواد القريبة تتحول إلى حمض لبعض الوقت
+streamingevent_slow_bullets | زمن الرصاص
+streamingeventdesc_slow_bullets | المقذوفات تتباطأ كثيرا
+streamingevent_gravity | جاذبية المقذوفات
+streamingeventdesc_gravity | تكتسب مقذوفاتك جاذبية إضافية
+streamingevent_antigravity | انعدام جاذبية المقذوفات
+streamingeventdesc_antigravity | تكتسب مقذوفاتك جاذبية معاكسة
+streaming_integration_toofeweventsenabled | فعل أربعة أحداث على الأقل\nمن قائمة خيارات البث!
+streamingevent_nothing | لا شيء
+streamingeventdesc_nothing | لا يحدث شيء.
+streamingevent_improve_wands | تحسين العصي
+streamingeventdesc_improve_wands | كل العصي القريبة منك تتحسن خصائصها قليلا
+streamingevent_weaken_wands | إضعاف العصي
+streamingeventdesc_weaken_wands | كل العصي القريبة منك تسوء خصائصها قليلا
+streamingevent_heal_ghost | استدعاء أشباح شافية
+streamingeventdesc_heal_ghost | تحصل على بضعة أشباح صديقة شافية
+streamingevent_player_gas | غازات زائدة
+streamingeventdesc_player_gas | ينبعث من جسدك غاز قابل للاشتعال لفترة
+streamingevent_areadamage_player | ضرر تلامس صديق
+streamingeventdesc_areadamage_player | تحصل على حقل يضر الأعداء القريبين لفترة.
+streamingevent_areadamage_enemy | ضرر تلامس الأعداء
+streamingeventdesc_areadamage_enemy | الأعداء القريبون يحصلون على حقول تضرك إن اقتربت.
+streamingevent_twitchy | ارتعاش!
+streamingeventdesc_twitchy | يصعب عليك التحكم في عصاك لفترة
+streamingevent_spawn_perk | موهبة عشوائية
+streamingeventdesc_spawn_perk | تمنح موهبة عشوائية
+streamingevent_shield_ghost | استدعاء شبح حام
+streamingeventdesc_shield_ghost | تحصل على شبح صديق يحميك
+streamingevent_matter_eater | آكل المادة
+streamingeventdesc_matter_eater | كل المقذوفات تأكل الأرض لفترة
+streamingevent_invisible_player | إخفاء شخصي
+streamingeventdesc_invisible_player | تصبح مخفيا لفترة
+streamingevent_invisible_enemy | أعداء مخفيون
+streamingeventdesc_invisible_enemy | يصبح الأعداء مخفيين لفترة
+streamingevent_neutralized | تعاويذ محيدة
+streamingeventdesc_neutralized | كل المقذوفات القريبة منك تحيد لفترة
+streamingevent_high_spread | تشتت هائل
+streamingeventdesc_high_spread | لكل المقذوفات تشتت عال جدا لفترة
+streamingevent_bubble | فقاعة الأمان
+streamingeventdesc_bubble | تحاط بفقاعة آمنة لفترة
+streamingevent_spawn_perk_enemy | مواهب للأعداء
+streamingeventdesc_spawn_perk_enemy | الأعداء القريبون يحصلون على مواهب عشوائية
+streamingevent_homunculus | استدعاء هومونكولوسات عشوائية
+streamingeventdesc_homunculus | مجموعة من الهومونكولوسات الصغيرة تظهر لمساعدتك
+streamingevent_homunculus_dark | استدعاء هومونكولوس حفار
+streamingeventdesc_homunculus_dark | هومونكولوس صغير يأتي لمساعدتك
+streamingevent_homunculus_fire | استدعاء هومونكولوس ناري
+streamingeventdesc_homunculus_fire | هومونكولوس صغير يأتي لمساعدتك
+streamingevent_homunculus_heal | استدعاء هومونكولوس شاف
+streamingeventdesc_homunculus_heal | هومونكولوس صغير يأتي لمساعدتك
+streamingevent_homunculus_laser | استدعاء هومونكولوس متوهج
+streamingeventdesc_homunculus_laser | هومونكولوس صغير يأتي لمساعدتك
+streamingevent_homunculus_punch | استدعاء هومونكولوس ملاكم
+streamingeventdesc_homunculus_punch | هومونكولوس صغير يأتي لمساعدتك
+streamingevent_add_always_cast | يلقي دائما
+streamingeventdesc_add_always_cast | العصا التي في يدك تحصل على تعويذة «يلقي دائما» دائمة! (4 كحد أقصى)
+streamingevent_fireworks | ألعاب نارية!
+streamingeventdesc_fireworks | آمنة تماما (بمعنى ما للأمان)
+streamingevent_holiday_mood | أجواء العيد
+streamingeventdesc_holiday_mood | فليكن ثلجا
+streamingeventdesc_holiday_mood_2 | فلتثلج
+streamingevent_rain_blackhole | عاصفة الجاذبية
+streamingeventdesc_rain_blackhole | ثقوب سوداء عديدة تنفتح قربك!!
+streamingevent_all_access_teleport | بوابات للجميع
+streamingeventdesc_all_access_teleport | المخلوقات القريبة منك تكتسب القدرة على دخول بوابات الجبل المقدس.

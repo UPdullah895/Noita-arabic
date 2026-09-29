@@ -1,0 +1,512 @@
+burst_2 | تعويذة مزدوجة
+burst_3 | تعويذة ثلاثية
+burst_4 | تعويذة رباعية
+scatter_2 | تعويذة مبعثرة مزدوجة
+scatter_3 | تعويذة مبعثرة ثلاثية
+scatter_4 | تعويذة مبعثرة رباعية
+i_shape | تشكيل - خلف ظهرك
+y_shape | تشكيل - متشعب
+t_shape | تشكيل - أعلى وأسفل
+w_shape | تشكيل - ثلاثي التشعب
+circle_shape | تشكيل - سداسي
+pentagram_shape | تشكيل - خماسي
+spread_reduce | تقليل التشتت
+recharge | تقليل زمن الشحن
+gravity | الجاذبية
+gravity_anti | ضد الجاذبية
+penetrate_walls | اختراق الجدران
+sinewave | مسار متعرج
+bounce | ارتداد
+homing | تتبع
+homing_shooter | بوميرانغ
+damage | زيادة الضرر
+critical_hit | زيادة الحرجة
+damage_friendly | القوة الماكرة
+damage_x2 | القوة الشديدة
+damage_x5 | القوة الممزقة
+heavy_shot | طلقة ثقيلة
+knockback | دفع
+recoil | ارتداد عكسي
+recoil_damper | مخمد الارتداد
+speed | تسريع
+gore | إسالة الدم
+water_to_poison | ماء إلى سم
+blood_to_acid | دم إلى حمض
+lava_to_blood | حمم إلى دم
+necromancy | استحضار الموتى
+fire_blast | انفجار الكبريت
+poison_blast | انفجار السم
+alcohol_blast | انفجار الخمر
+thunder_blast | انفجار الرعد
+charm_field | دائرة الإقناع
+berserk_field | دائرة الحماسة
+polymorph_field | دائرة التحويل
+chaos_polymorph_field | دائرة التحول المضطرب
+electrocution_field | دائرة الرعد
+freeze_field | دائرة السكون
+regeneration_field | دائرة الحيوية
+teleportation_field | دائرة الإزاحة
+levitation_field | دائرة الطفو
+telepathy_field | دائرة البصيرة
+shield_field | دائرة الحماية
+sea_lava | بحر الحمم
+sea_oil | بحر الزيت
+sea_water | بحر الماء
+sea_acid | بحر الحمض
+sea_acid_gas | بحر الغاز القابل للاشتعال
+sea_alcohol | بحر الخمر
+cloud_water | سحابة مطر
+cloud_blood | سحابة دم
+cloud_acid | سحابة حمض
+cloud_thunder | سحابة رعدية
+electric_charge | شحنة كهربائية
+matter_eater | آكل المادة
+freeze | شحنة تجميد
+hitfx_burning_critical_hit | حرجة على المحترقين
+hitfx_critical_water | حرجة على المبتلين (ماء)
+hitfx_critical_oil | حرجة على الملطخين بالزيت
+hitfx_critical_blood | حرجة على الملطخين بالدم
+hitfx_poltergeist | روح صاخبة
+fireball_ray | قاذف كرات النار
+hitfx_oiled_freeze | تجميد الزيت
+alcohol_shot | طلقة خمر
+freeze_if_wet_shooter | تجميد المبتلين
+blindness | عمى
+teleportation | انتقال آني
+telepathy | تخاطر
+arc_electric | قوس كهربائي
+arc_fire | قوس ناري
+arc_gunpowder | قوس بارود
+arc_poison | قوس سام
+polymorph | شحنة تحويل
+berserk | هياج
+charm | سحر الإغواء
+x_ray | العين البصيرة
+x_ray_modifier | معدل الأشعة السينية
+acid | حمض
+unstable_gunpowder | مفرقعات
+acid_trail | أثر حمض
+poison_trail | أثر سم
+oil_trail | أثر زيت
+water_trail | أثر ماء
+blood_trail | أثر دم
+gunpowder_trail | أثر بارود
+fire_trail | أثر نار
+burn_trail | أثر محترق
+torch | شعلة
+torch_electric | شعلة كهربائية
+light | ضوء
+energy_shield | درع طاقة
+energy_shield_sector | قطاع درع طاقة
+duplicate_on_death | استنساخ
+bee | نحلة
+duck | بطة
+sheep | خروف
+misfire | إطلاق خاطئ
+misfire_critical | إطلاق خاطئ (حرج)
+generate_random_deck_5 | توليد مجموعة عشوائية (5)
+light_bullet | ومضة شرر
+air_bullet | دفقة هواء
+light_bullet_trigger | ومضة شرر بمشغل
+light_bullet_trigger_2 | ومضة شرر بمشغل مزدوج
+light_bullet_timer | ومضة شرر بمؤقت
+bullet | سهم سحري
+bullet_trigger | سهم سحري بمشغل
+bullet_timer | سهم سحري بمؤقت
+heavy_bullet | صاعقة سحرية
+heavy_bullet_trigger | صاعقة سحرية بمشغل
+heavy_bullet_timer | صاعقة سحرية بمؤقت
+slow_bullet | كرة طاقة
+slow_bullet_trigger | كرة طاقة بمشغل
+slow_bullet_timer | كرة طاقة بمؤقت
+black_hole | ثقب أسود
+black_hole_big | ثقب أسود عملاق
+decoy | طعم
+decoy_trigger | طعم بمشغل
+spitter | طلقة باصقة
+spitter_timer | طلقة باصقة بمؤقت
+bubbleshot | شرارة فقاعية
+bubbleshot_trigger | شرارة فقاعية بمشغل
+disc_bullet | قرص مقذوف
+bouncy_orb | كرة طاقة مرتدة
+bouncy_orb_timer | كرة طاقة مرتدة بمؤقت
+rubber_ball | دفقة مرتدة
+arrow | سهم
+lance | رمح متوهج
+rocket | صاروخ سحري
+rocket_tier_2 | صاروخ سحري كبير
+rocket_tier_3 | صاروخ سحري عملاق
+grenade | صاعقة نارية
+grenade_tier_2 | صاعقة نارية كبيرة
+grenade_tier_3 | صاعقة نارية عملاقة
+grenade_trigger | صاعقة نارية بمشغل
+grenade_anti | صاعقة نارية غريبة
+grenade_large | صاعقة ساقطة
+mine | بلورة غير مستقرة
+mine_death_trigger | بلورة غير مستقرة بمشغل
+pipe_bomb | بلورة خاملة
+pipe_bomb_death_trigger | بلورة خاملة بمشغل
+exploding_deer | استدعاء غزال الطعم
+pipe_bomb_detonator | تفجير البلورات الخاملة
+laser | ضوء مركز
+lightning | صاعقة برق
+digger | صاعقة حفر
+powerdigger | انفجار حفر
+chainsaw | منشار آلي
+tentacle | استدعاء مجس
+tentacle_timer | استدعاء مجس بمؤقت
+heal_bullet | صاعقة شفاء
+spiral_shot | طلقة حلزونية
+fireball | كرة نار
+meteor | نيزك
+flamethrower | قاذف لهب
+icethrower | قاذف جليد
+slimeball | كرة وحل
+darkflame | درب اللهب المظلم
+missile | استدعاء قذيفة
+pebble | استدعاء روح الصخر
+dynamite | ديناميت
+bomb_legacy | قنبلة
+bomb | قنبلة
+bomb_holy | قنبلة مقدسة
+knife | سكين رمي
+crumbling_earth | زلزال
+circleshot_a | طلقة دائرية
+circleshot_b | طلقة حلزونية
+acidshot | كرة حمض
+thunderball | شحنة رعد
+bloomshot | قوس وحل
+icecircle | دائرة جليد
+firebomb | قنبلة نارية
+soilball | كتلة تراب
+pink_orb | كرة متتبعة
+death_cross | صليب الموت
+plasma_flare | وهج البلازما
+keyshot | طلقة المفتاح
+mana | مانا
+skull | جمجمة
+material_liquid | يطلق سائلا
+mist_radioactive | ضباب سام
+mist_alcohol | ضباب الخمر
+mist_slime | ضباب الوحل
+mist_blood | ضباب الدم
+circle_fire | دائرة النار
+circle_acid | دائرة الحمض
+circle_oil | دائرة الزيت
+circle_water | دائرة الماء
+material_water | ماء
+material_oil | زيت
+material_blood | دم
+material_acid | حمض
+material_cement | إسمنت
+material_lava | حمم
+material_gunpowder_explosive | بارود متفجر
+material_dirt | تراب
+building_board_wood | قالب خشبي
+building_back_wall_rock | جدار خلفي (صخر)
+building_pressure_plate | لوح ضغط
+building_physics_templedoor | باب المعبد
+teleport_projectile | صاعقة انتقال
+teleport_home | انتقال إلى البيت
+levitation_projectile | مقذوف تحليق
+nuke | قنبلة نووية
+high_explosive | TNT
+drone | طائرة مسيرة
+baab_is | هو
+baab_all | الكل
+baab_empty | الكل
+baab_lava | حمم
+baab_water | ماء
+baab_poop | براز
+baab_love | حب
+firework | ألعاب نارية!
+explosive_projectile | مقذوف متفجر
+explosion | انفجار
+death_cross_big | صليب الموت العملاق
+area_damage | حقل الضرر
+summon_rock | صخرة
+summon_egg | استدعاء بيضة
+spitter_tier_2 | طلقة باصقة كبيرة
+spitter_tier_2_timer | طلقة باصقة كبيرة بمؤقت
+spitter_tier_3 | طلقة باصقة عملاقة
+spitter_tier_3_timer | طلقة باصقة عملاقة بمؤقت
+transmutation | تحويل فوضوي
+toxic_to_acid | الوحل السام إلى حمض
+summon_wandghost | استدعاء تايكاساوفا
+touch_gold | لمسة الذهب
+touch_water | لمسة الماء
+touch_oil | لمسة الزيت
+touch_alcohol | لمسة الخمر
+touch_blood | لمسة الدم
+touch_smoke | لمسة الدخان
+destruction | الدمار
+projectile_transmutation_field | حقل تحويل المقذوفات
+chaotic_arc | مسار فوضوي
+projectile_thunder_field | حقل رعد المقذوفات
+projectile_gravity_field | حقل جاذبية المقذوفات
+fly_downwards | الطيران لأسفل
+fly_upwards | الطيران لأعلى
+horizontal_arc | مسار أفقي
+luminous_drill | مثقاب مضيء
+luminous_drill_timer | مثقاب مضيء بمؤقت
+hitfx_explosion_slime | انفجار على الموحلين
+hitfx_explosion_slime_giga | انفجار عملاق على الموحلين
+hitfx_explosion_alcohol | انفجار على السكارى
+hitfx_explosion_alcohol_giga | انفجار عملاق على السكارى
+fireball_ray_enemy | قاذف كرات نار شخصي
+lightning_ray | قاذف البرق
+lightning_ray_enemy | ملقي برق شخصي
+tentacle_ray | قاذف المجسات
+tentacle_ray_enemy | قاذف مجسات شخصي
+hitfx_toxic_charm | إغواء على الوحل السام
+tentacle_portal | بوابة الرعب القديم
+static_to_sand | الأرض إلى رمل
+gravity_field_enemy | حقل جاذبية شخصي
+summon_hollow_egg | استدعاء بيضة جوفاء
+buckshot | صاعقة ثلاثية
+lifetime | زيادة العمر
+mana_reduce | إضافة مانا
+shortlived_shot | تعويذة قصيرة العمر
+wall_horizontal | حاجز أفقي
+wall_vertical | حاجز عمودي
+wall_square | حاجز مربع
+purple_explosion_field | حقل متلألئ
+light_shot | طلقة ضوء
+commander_bullet | صاعقة القائد
+disc_bullet_big | قرص مقذوف عملاق
+bounce_explosion | ارتداد متفجر
+rocket_downwards | حزمة صواعق لأسفل
+piercing_shot | طلقة خارقة
+clipping_shot | طلقة حافرة
+delayed_spell | إلقاء مؤجل
+turret_spell | إلقاء حارس
+accelerating_shot | طلقة متسارعة
+avoiding_arc | قوس متجنب
+lifetime_down | تقليل العمر
+long_distance_cast | إلقاء بعيد المدى
+teleport_cast | إلقاء منتقل
+heavy_spread | تشتت ثقيل
+ocarina_a | أوكارينا - نغمة A
+ocarina_b | أوكارينا - نغمة B
+ocarina_c | أوكارينا - نغمة C
+ocarina_d | أوكارينا - نغمة D
+ocarina_e | أوكارينا - نغمة E
+ocarina_f | أوكارينا - نغمة F
+ocarina_gsharp | أوكارينا - نغمة G#
+ocarina_a2 | أوكارينا - نغمة A2
+chain_bolt | صاعقة متسلسلة
+glitter_bomb | قنبلة لامعة
+fireball_ray_line | قاذف كرات نار باتجاهين
+pingpong_path | مسار ذهاب وإياب
+floating_arc | قوس طاف
+teleport_projectile_static | العودة
+freezing_gaze | النظرة المجمدة
+glowing_bolt | نقطة ضوء
+random_explosion | سحر الفوضى
+decelerating_shot | طلقة متباطئة
+rocket_octagon | حزمة صواعق ثمانية
+blood_magic | سحر الدم
+fizzle | خمود
+super_teleport_cast | إلقاء خاطف
+bounce_laser | ارتداد الضوء المركز
+magic_shield | حارس سحري
+big_magic_shield | حارس سحري كبير
+swarm_fly | استدعاء سرب ذباب
+swarm_firebug | استدعاء سرب حشرات النار
+swarm_wasp | استدعاء سرب دبابير
+friend_fly | استدعاء ذبابة صديقة
+duplicate | مضاعفة التعويذة
+infestation | الغزو
+crumbling_earth_projectile | طلقة الزلزال
+random_spell | تعويذة عشوائية
+random_projectile | تعويذة مقذوف عشوائية
+random_modifier | تعويذة معدل عشوائية
+random_static_projectile | تعويذة مقذوف ثابت عشوائية
+draw_random | نسخ تعويذة عشوائية
+draw_random_x3 | نسخ تعويذة عشوائية ثلاث مرات
+draw_3_random | نسخ ثلاث تعاويذ عشوائية
+damage_random | ضرر عشوائي
+alpha | ألفا
+omega | أوميغا
+gamma | غاما
+divide_2 | القسمة على 2
+divide_3 | القسمة على 3
+divide_4 | القسمة على 4
+divide_10 | القسمة على 10
+all_nukes | التعاويذ إلى قنابل نووية
+all_discs | التعاويذ إلى مناشير عملاقة
+all_blackholes | التعاويذ إلى ثقوب سوداء
+all_rockets | التعاويذ إلى صواريخ سحرية
+all_deathcrosses | التعاويذ إلى صلبان الموت
+all_acid | التعاويذ إلى حمض
+all_spells | نهاية كل شيء
+add_trigger | إضافة مشغل
+add_timer | إضافة مؤقت
+add_death_trigger | إضافة مشغل انتهاء
+copy_spell | نسخ التعويذة
+copy_field | نسخ الحقل
+larpa_chaos | لاربا الفوضى
+larpa_downwards | لاربا لأسفل
+larpa_upwards | لاربا لأعلى
+delta | دلتا
+larpa_chaos_2 | نسخ الأثر
+spore_pod | جراب الأبواغ الشائك
+energy_shield_shot | درع طاقة المقذوف
+autoaim | تصويب تلقائي
+homing_rotate | الدوران نحو الأعداء
+swapper_projectile | المبادل
+propane_tank | خزان بروبان
+megalaser | ضوء مركز شديد
+bomb_cart | عربة قنابل
+tiny_ghost | استدعاء شبح صغير
+bounce_spark | ارتداد فقاعي
+cursed_orb | الكرة الملعونة
+kantele_a | كانتيله - نغمة A
+kantele_b | كانتيله - نغمة B
+kantele_c | كانتيله - نغمة C
+kantele_d | كانتيله - نغمة D
+kantele_e | كانتيله - نغمة E
+kantele_f | كانتيله - نغمة F
+kantele_gsharp | كانتيله - نغمة G#
+kantele_a2 | كانتيله - نغمة A2
+kantele_dis | كانتيله - نغمة D#
+kantele_g | كانتيله - نغمة G
+burst_8 | تعويذة ثمانية
+broken_spell | تعويذة مكسورة
+summon_portal | استدعاء بوابة
+line_arc | قوس مستقيم
+lifetime_infinite | عمر لا نهائي
+cloud_oil | سحابة زيت
+meteor_rain | مطر النيازك
+worm_rain | مطر الديدان
+quantum_split | الانقسام الكمي
+chain_shot | تعويذة متسلسلة
+teleport_projectile_short | صاعقة انتقال صغيرة
+mu | مو
+reset | تجديد العصا
+larpa_death | انفجار لاربا
+bounce_larpa | ارتداد لاربا
+zeta | زيتا
+ball_lightning | البرق الكروي
+nolla | نولا
+homing_accelerating | تتبع متسارع
+teleport_closer | صاعقة انتقال الجالب
+fanning_shot | طلقة مروحية
+projectile_fan | مروحة التعاويذ
+spells_to_power | التعاويذ إلى قوة
+enemies_to_power | الجوهر إلى قوة
+explosion_light | انفجار سحري
+phi | فاي
+burst_x | تعويذة لا تحصى
+worm_launcher | استدعاء دودة
+spiraling_shot | قوس حلزوني
+orbit_shot | قوس مداري
+form_potion | صنع جرعة
+omega_disc_bullet | استدعاء منشار أوميغا
+temporary_wall | استدعاء جدار
+temporary_platform | استدعاء منصة
+summon_missile | استدعاء قذيفة
+laser_emitter | شعاع بلازما
+laser_emitter_thrower | عرض البلازما
+laser_cross | شعاع بلازما X
+if_enemy | شرط - الأعداء
+if_projectile | شرط - تعاويذ المقذوفات
+if_hp | شرط - صحة منخفضة
+if_end | شرط - النهاية
+if_half | شرط - مرة بعد مرة
+if_else | شرط - وإلا
+bloodlust | التعطش للدماء
+colour_red | بريق أحمر
+colour_green | بريق أخضر
+colour_purple | بريق بنفسجي
+colour_orange | بريق برتقالي
+colour_blue | بريق أزرق
+colour_yellow | بريق أصفر
+colour_invis | تعويذة خفية
+colour_rainbow | بريق قوس قزح
+explosion_remove | إزالة الانفجار
+expanding_orb | كرة متمددة
+homing_projectile | تعاويذ تابعة
+vacuum_powder | حقل شفط المساحيق
+vacuum_liquid | حقل شفط السوائل
+phasing_arc | قوس متلاش
+vacuum_entities | حقل الشفط
+bloodtentacle | مجس الدم
+explosion_tiny | انفجار مركز
+liquid_to_explosion | تفجير السوائل
+laser_emitter_four | صليب شعاع البلازما
+laser_emitter_ray | قاذف شعاع البلازما
+bounce_laser_emitter | ارتداد شعاع البلازما
+homing_cursor | قوس التصويب
+sigma | سيغما
+tau | تاو
+laser_emitter_cutter | قاطع البلازما
+laser_emitter_wider | معزز شعاع البلازما
+damage_forever | المانا إلى ضرر
+homing_area | انتقال منطقة المقذوف
+bomb_detonator | مفجر المتفجرات
+orbit_discs | مدار المناشير
+orbit_fireballs | مدار كرات النار
+orbit_nukes | مدار القنابل النووية
+orbit_lasers | مدار أشعة البلازما
+orbit_larpa | لاربا المدار
+slow_but_steady | بطيء لكن ثابت
+curse | اللعنة السامة
+exploding_ducks | سرب البط
+money_magic | الذهب إلى قوة
+curse_wither_projectile | لعنة الإضعاف - المقذوفات
+curse_wither_explosion | لعنة الإضعاف - المتفجرات
+curse_wither_melee | لعنة الإضعاف - الالتحام
+curse_wither_electricity | لعنة الإضعاف - الكهرباء
+worm_shot | قاذف الديدان
+black_hole_death_trigger | ثقب أسود بمشغل موت
+rainbow_trail | أثر قوس قزح
+remove_bounce | إزالة الارتداد
+glue_shot | كرة غراء
+petrify | تحجير
+worm_shot_big | قاذف الديدان العملاق
+fan | مروحة المقذوفات
+pollen | حبوب اللقاح
+homing_short | تتبع قصير المدى
+knife_ring | حلقة السكاكين
+iceball | كرة جليد
+tntbox | استدعاء صندوق متفجرات
+tntbox_big | استدعاء صندوق متفجرات كبير
+sun | استدعاء شمس
+darksun | استدعاء شمس مظلمة
+nuke_giga | قنبلة نووية عملاقة
+bomb_holy_giga | قنبلة مقدسة عملاقة
+black_hole_giga | ثقب أسود أوميغا
+blood_to_power | الدم إلى قوة
+meat_to_power | اللحم إلى قوة
+toxic_to_power | القوة السامة
+bounce_small_explosion | ارتداد لامع
+bounce_lightning | ارتداد البرق
+bounce_hole | ارتداد الشفط
+zero_damage | طلقة عديمة
+caster_cast | تعويذة داخلية
+white_hole_big | ثقب أبيض عملاق
+true_orbit | المدار الحقيقي
+hook | صاعقة الخطاف
+anti_homing | ضد التتبع
+fish | استدعاء سمكة
+sea_swamp | استدعاء مستنقع
+homing_wand | تتبع العصا
+quad_shot | تكرار رباعي
+i_shot | تكرار I
+t_shot | تكرار T
+w_shot | تكرار W
+y_shot | تكرار Y
+penta_shot | تكرار خماسي
+hexa_shot | تكرار سداسي
+antiheal | الشفاء القاتل
+clustermod | صاعقة عنقودية
+turretmod | الروح الحارسة
+holy | الرمح المقدس
+touch_piss | لمسة الذهب؟
+mass_polymorph | موودونمووتوس
+touch_grass | لمسة العشب
+cessation | التوقف
+white_hole | ثقب أبيض
+white_hole_giga | ثقب أبيض أوميغا
+sea_mimic | بحر الميميسيوم

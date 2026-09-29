@@ -1,0 +1,165 @@
+critical_hit | ضربة حرجة +
+breath_underwater | بلا تنفس
+extra_money | الجشع
+extra_money_trick_kill | الجشع الماكر
+hover_boost | تحليق قوي
+movement_faster | حركة أسرع
+repelling_cape | العباءة الطاردة
+exploding_corpses | جثث متفجرة
+saving_grace | النعمة المنقذة
+invisibility | الاختفاء
+global_gore | دماء أكثر
+no_damage_flash | بلا وميض ضرر
+reverse_slowdown | الوحل الزلق
+extra_hp | صحة إضافية (مرة واحدة)
+glass_cannon | المدفع الزجاجي
+respawn | حياة إضافية (مرة واحدة)
+protection_fire | مناعة من النار
+protection_radioactivity | مناعة من السموم
+protection_explosion | مناعة من الانفجارات
+protection_melee | مناعة من الالتحام
+protection_electricity | مناعة من الكهرباء
+teleportitis | داء الانتقال
+stainless_armour | الدرع النظيف
+edit_wands_everywhere | تعديل العصي في كل مكان
+projectile_homing | طلقات متتبعة
+freeze_field | حقل التجميد
+dissolve_powders | إذابة المساحيق
+bleed_slime | دم الوحل
+shield | درع دائم
+revenge_explosion | انفجار الانتقام
+electricity | الكهرباء
+mystery_eggplant | الباذنجانة الغامضة
+double_hp | صحة مضاعفة بلا تجدد
+berserk | الهياج
+shuffle_wands | خلط العصي
+heavy_ammo | ذخيرة ثقيلة
+liquid_movement | الحركة في السوائل
+faster_swimming | سباحة أسرع
+extra_shop_item | غرض إضافي في الجبل المقدس
+poison_burn | السم المحترق
+low_gravity | جاذبية منخفضة
+destruction_enhancement | تعزيز التدمير
+damaging_aura | هالة مؤذية
+thunder_kick | ركلة الرعد
+vision | رؤية أفضل
+telepathic_vision | الحضور التخاطري
+no_more_knockback | لا مزيد من الدفع
+knockback_control | دفع متحكم به
+roll_again | سحب جديد
+reveal_secrets | كشف الأسرار
+potion_drop | سقوط الجرعات
+mystery_egg | البيضة الغامضة
+gold_no_disappear_while_seen | العين الذهبية
+mana_discount | خصم المانا
+juggernaut | التعاويذ الجبارة
+big_potions | جرعات كبيرة
+extra_charges | شحنات إضافية
+fast_projectiles | مقذوفات أسرع
+deadly_environment | بيئة قاتلة
+cursed_power | القوة الملعونة
+randomize_spells | تعاويذ عشوائية
+personal_raincloud | سحابة مطر شخصية
+helper_orb | الكرة المساعدة
+extra_wand_slot | مخزن عصي إضافي
+extra_potion_slot | مخزن أغراض إضافي
+extra_action_storage | مخزن تعاويذ إضافي
+persuasion | الإقناع
+permanent_flying | الأرض حمم
+melt | الجثث الذائبة
+double_cast | إلقاء مزدوج
+ability_actions_materialized | القنابل المجسدة
+hearts_more_extra_hp | قلوب أقوى
+extra_perk | موهبة إضافية
+perks_lottery | يانصيب المواهب
+genome_more_hatred | كراهية أكثر
+genome_more_love | حب أكثر
+random_allies | حلفاء عشوائيون
+remove_fog_of_war | العين البصيرة
+attract_items | جذب الذهب
+strong_kick | لا تهمل يوم الساقين
+projectile_repulsion | حقل صد المقذوفات
+multiply_hp | صحة مضاعفة بلا شفاء
+bleed_oil | دم الزيت
+golden_i | العين الذهبية
+no_player_knockback | مناعة من الدفع
+extra_knockback | دفع إضافي للتعاويذ
+lower_spread | تعاويذ مركزة
+bounce | تعاويذ مرتدة
+projectile_homing_shooter | تعاويذ البوميرانغ
+worm_attractor | جاذب الديدان
+worm_detractor | طارد الديدان
+speed_diver | السباحة السريعة
+revenge_tentacle | مجس الانتقام
+attack_foot | طفرة لوكي
+plague_rats | فئران الطاعون
+radar_enemy | رادار الأعداء
+radar_wand | رادار العصي
+unlimited_spells | تعاويذ غير محدودة
+leggy_feet | طفرة الأرجل
+always_cast | إلقاء دائم (مرة واحدة)
+no_more_shuffle | لا مزيد من الخلط
+vampirism | مصاص الدماء
+no_wand_editing | بلا تعديل للعصي
+telekinesis | الركلة التحريكية
+projectile_duplicate | طلقات مكررة
+low_hp_damage_boost | العيش على الحافة
+faster_levitation | تحليق أسرع
+peace_with_steve | السلام مع الآلهة
+gold_is_forever | الذهب للأبد
+wand_experimenter | مجرب العصي
+trick_blood_money | مال الدم الماكر
+levitation_trail | أثر التحليق
+protection_freeze | مناعة من التجمد
+revenge_bullet | رصاصات الانتقام
+angry_ghost | الشبح الغاضب
+gourd | القرعة المنعشة
+gas_fire | نار الغاز
+spell_duplication | تكرار المقذوفات
+faster_wands | عصي أسرع (مرة واحدة)
+orbit | التلاشي
+mana_from_kills | القتل إلى مانا
+mega_beam_stone | استدعاء سادكيفي (مرة واحدة)
+foodclock | ساعة الطعام
+high_gravity | جاذبية عالية
+exploding_gold | الذهب المتفجر
+worm_smaller_holes | تخشاه الديدان
+worm_bigger_holes | حفر أكثر للديدان
+extra_slots | سعة عصا إضافية (مرة واحدة)
+teleportitis_dodge | مراوغة داء الانتقال
+extra_mana | مانا عالية وسعة منخفضة (مرة واحدة)
+homunculus | القزم المصنوع
+laser_aim | المصوب الدقيق
+low_recoil | ارتداد منخفض
+projectile_repulsion_sector | قطاع صد المقذوفات
+projectile_eater_sector | آكل المقذوفات
+projectile_slow_field | مبطئ المقذوفات
+personal_laser | شعاع بلازما شخصي
+moon_radar | رادار القمر
+radar_item | رادار الأغراض
+radar_moon | رادار القمر
+extra_potion_capacity | سعة جرعات إضافية
+vomit_rats | التولد التلقائي
+revenge_rats | فئران الانتقام
+contact_damage | ضرر التلامس
+adventurer | الاستكشاف الصحي
+hungry_ghost | الشبح الجائع
+death_ghost | الروح النائحة
+risky_critical | النجاة بأعجوبة
+food_clock | كل خضرواتك
+food_clock_2 | ساعة الطعام
+gamble | المقامرة (مرة واحدة)
+fungal_disease | المرض الفطري
+lukki_minion | تابع لوكي
+angry_levitation | تحليق يغذيه الغضب
+destructive_spells | السحر المدمر
+mold | المستعمرة الفطرية
+cordyceps | الكورديسيبس
+minion_powerup | أتباع أقوياء
+map | الإدراك المكاني
+gas_blood | دم الغاز
+iron_stomach | المعدة الحديدية
+bigger | كن أضخم
+smaller | كن أصغر
+lich | هيئة الليتش
+respawn_spent | حياة إضافية (مرة واحدة)

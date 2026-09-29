@@ -1,0 +1,45 @@
+windowmode_windowed | نافذة
+windowmode_fullscreen | ملء الشاشة (نافذة)
+windowmode_fullscreen_real | ملء الشاشة (حقيقي)
+hint_editwands | اضغط $0 لتعديل العصي
+hint_endingmcguffin_use | اضغط $0 لإتمام العمل العظيم
+itemtitle_spell_refresh | التقطت مجدد التعاويذ
+itemtitle_wand_pickup | التقطت عصا سحرية جديدة
+itemtitle_chest_open | فتحت صندوق كنز!
+itemtitle_chest_broken_open | كسر صندوق وانفتح
+projectile_default | مقذوف
+new_game_for_newgame_plus | لعبة جديدة
+building_worm_deflector | بلورة الدودة
+ingestion_status_caused_by | السبب: ابتلاع $0.
+ingestion_status_caused_by_many | السبب: ابتلاع $0 وغيره.
+ingestion_status_caused_by_overingestion | السبب: الإفراط في الأكل
+ending_above_part_a | استعيد العالم
+ending_above_part_b | والجميع أسعد بكثير
+death_curse | لعنة
+death_polymorph | ، وأنت متحول إلى $0
+logdesk_curse_ghost | جشعك سيطاردك أينما ذهبت...
+logdesk_curse_permaoil | جشعك يلتصق بك كالقار...
+logdesk_curse_nofly | جشعك يثقل كاهلك...
+logdesk_curse_strongenemies | جشعك يجعل الآخرين يكرهونك...
+logdesk_curse_keepmoving | جشعك يجعلك متعجلا أكثر من اللازم...
+effect_neutralized | تعاويذ محيدة
+effectdesc_neutralized | تعاويذ المقذوفات التي تلقيها تتعطل.
+greed_curse_damage | لعنة الجشع
+release_notes_10_highlights | أبرز الميزات:\nنمط لعب جديد: جولة التدريب اليومية.\nتكامل Twitch - دع مشاهدي البث يجعلون لعبتك أكثر فوضى.\nمعدلات المناطق - تختلف المناطق أحيانا عن شكلها المعتاد.\nبعض المناطق فيها محاكاة لتأثيرات الحرارة.\nالكثير من تعديلات وإضافات اللعب والواجهة.\nتحسينات مرئية وصوتية.\nتعاويذ ومواهب وأعداء ومواد وأسرار وأصوات جديدة والمزيد.\nأكثر من 15 مقطوعة موسيقية جديدة: الغابة الجوفية، الخزنة، معبد الفن والمزيد.\nتحسينات في الأداء وإصلاح أخطاء.\nإعادة تصميم قائمة الخيارات.
+continue_10_warning | ننصحك بشدة ألا تحاول تحميل حفظ من قبل الإصدار 1.0. كل شيء سيتعطل والآلهة ستغضب حتما.
+release_notes_title | ملاحظات الإصدار
+month_0 | يناير
+material_transformed | $0 (متحول)
+ethereal_damage | لمسة شبحية
+screenshot_saved | حفظت لقطة شاشة في $0
+hint_endingmcguffin_enter_newgameplus | اضغط $0 لدخول لعبة جديدة$1
+material_mold | عفن
+material_cloth | قماش
+building_altar_null | مذبح الإبطال
+building_altar_always | مذبح الديمومة
+gold_wand_statue | تمثال ذهبي
+magic_liquid_weakness | مادة الإضعاف
+ui_longleg_love | اضغط $0 للمداعبة
+ui_longleg_love_msg1 | الهاميس سعيد!
+ui_longleg_love_msg2 | الهاميس سعيد جدا جدا!
+fast_travel_boom | انفجار السفر السريع

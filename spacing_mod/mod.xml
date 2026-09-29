@@ -1,0 +1,8 @@
+<Mod
+	name="Arabic Tooltip Spacing"
+	description="يوسع المسافة بين أسطر تلميحات العصي والتعاويذ لتتسع للحروف العربية. / Widens wand and spell tooltip rows so Arabic dots don't collide."
+	request_no_api_restrictions="1"
+	is_game_mode="0"
+	is_translation="0"
+>
+</Mod>

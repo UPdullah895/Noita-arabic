@@ -1,0 +1,224 @@
+player | مينا
+boss_centipede_minion | كولميسيلمان أبوري
+boss_limbs | كولميسيلمان كويبي
+boss_dragon_endcrystal | ماتو
+lukki | هامياهاكي
+lukki_creepy | هامياهاكي بلا وجه
+lukki_creepy_long | لوكي بلا وجه
+lukki_longleg | لوكي
+acidshooter | هابونولياسكا
+alchemist | بويستوكيميستي
+ant | موركو
+assassin | سالامورهاياروبوتي
+barfer | تورفونو فيلهو
+bat | ليباكو
+bigbat | سورليباكو
+bigfirebug | سورتوليكاربانن
+bigzombie | ماتانيفا رويميس
+bigzombiehead | ماتانيفا با
+bigzombietorso | ماتانيفا كروبا
+blob | كيوكوموكيو
+bloodcrystal_physics | فيريكريستالي
+bloom | بوسكا
+boss_dragon | سوموهاوكي
+chest_mimic | ماتكيا
+crystal_physics | كيروتو كريستالي
+darkghost | هاامو
+deer | نيليكويبي
+drone | لينوكي
+drone_physics | لينوكي
+duck | أنكا
+eel | ناهكياينن
+elk | بورو
+firebug | بيكوتوليكاربانن
+firemage | إلداري
+firemage_weak | ستنداري
+fireskull | ليكيو
+fish | إيفاكاس
+fish_large | سورإيفاكاس
+flamer | ليكاري
+fly | أمباري
+frog | كونا
+fungus | لاهوستوسيني
+gazer | هيلفيتينكاتسه
+ghost | هوره
+ghoul | سولكيري
+giant | هيدنكيفي
+giantshooter | أيتينولياسكا
+healerdrone_physics | كورياوسلينوكي
+icer | يااهديتوسلايته
+iceskull | يااتيو
+lasershooter | مولكيو
+longleg | هاميس
+slimeshooter | ليمانولياسكا
+slimeshooter_boss_limbs | أيتيليمانولياسكا
+maggot | توكا
+mimic_physics | ماتكيا
+miner | تابوراهيسي
+miner_weak | تابوراهيسيلاينن
+miner_fire | توليهيسي
+miner_santa | يولوهيسي
+mine_scavenger | مينا
+miniblob | موكيو
+missilecrab | هاينسيركا
+pebble | لوهكاره
+pebble_player | الرفيق لوهكاره
+phantom_a | سبيراليكالما
+phantom_b | كيوكوكالما
+playerghost | كوميتوس
+rat | روتا
+roboguard | روبوتيكوتا
+scavenger_clusterbomb | إيسوهيسي
+scavenger_grenade | كرانوهيسي
+scavenger_heal | بارانتاياهيسي
+scavenger_leader | تويماري
+scavenger_mine | ميينانكولفايا
+scavenger_poison | مورككوهيسي
+scavenger_smg | رونكوهيسي
+scorpion | سكوربيوني
+sheep | لاماس
+sheep_bat | لينتولاماس
+sheep_fly | سوهيسيفا لاماس
+shooterflower | بلازماكوكا
+shotgunner_weak | هاولكوهيسي ضعيف
+shotgunner | هاولكوهيسي
+skullfly | كالوكاربانن
+skullrat | كالوروتا
+sniper | سنيبوهيسي
+spitmonster | هيلفيتين سولكيا
+statue_physics | هوهتوناامو
+tank | كا-كا تانكي
+tank_rocket | إي-تي تانكي
+tentacler | تورسو
+tentacler_small | بيكوتورسو
+thundermage | أوكو
+turret | تورونتالايته
+wand_ghost | تايكاساوفا
+wizard_dark | سوكايسونميستاري
+wizard_poly | مودونموتوسميستاري
+wizard_tele | سيرتاياميستاري
+wolf | سوسي
+worm | ماتو
+worm_big | ياتيماتو
+worm_end | هيلفيتينماتو
+worm_skull | كالماماتو
+worm_tiny | بيكوماتو
+zombie_weak | هيكوهورتا
+zombie | هورتا
+slimeshooter_weak | ليمانولياسكا ضعيف
+wraith | هويبيو
+wraith_glowing | هويبيو متوهج
+necromancer_shop | ستيفاري
+mine | لغم أرضي
+fungus_big | نوياماليكا
+lurker | فاريوكوبلا
+scavenger_invis | هايفيهيسي
+scavenger_shield | كيلبيهيسي
+frog_big | ياتيكونا
+tank_super | دبابة الليزر
+plague_rats_rat | روتوروتا
+giantshooter_weak | أيتينولياسكا ضعيف
+acidshooter_weak | هابونولياسكا ضعيف
+wraith_storm | أوكوسهويبيو
+skycrystal_physics | تايفاسكريستالي
+slimeshooter_nontoxic | ليمانولياسكا
+turret_right | تورونتالايته
+turret_left | تورونتالايته
+necromancer | هاهمونفايهتايا
+lukki_tiny | بيكوهامياهاكي
+spearbot | بيتسيفارتيا
+ultimate_killer | كاوهوهيرفيو
+goblin_bomb | ساهيكايسمينيكاينن
+pebble_physics | لوهكاره
+chest_leggy | يالكاماتكاتافارا
+boss_centipede | كولميسيلما
+failed_alchemist | الخيميائي الضائع
+failed_alchemist_b | الخيميائي الزائف
+enlightened_alchemist | الخيميائي المستنير
+lasergun | مدفع الليزر
+monk | الراهب
+statue | التمثال
+boss_alchemist | كبير الخيميائيين
+wizard_returner | بالاوتاياميستاري
+wizard_swapper | فايهدوسميستاري
+drone_lasership | ياتيليزرلينوكي
+shaman | ماركياينن
+wizard_neutral | مادويتاياميستاري
+greed_ghost | شبح الجشع
+thunderskull | ساهكيو
+boss_pit | ساوفويين تونتيا
+wand | عصا
+enlightened_laser_dark_wand | عصا مظلمة
+enlightened_laser_elec_wand | عصا الرعد
+enlightened_laser_fire_wand | عصا النار
+enlightened_laser_light_wand | عصا متوهجة
+wizard_twitchy | ساتكيميستاري
+homunculus | هومونكولوس
+wizard_hearty | هافويتاياميستاري
+drone_shield | تورفالينوكي
+wizard_weaken | تورفاتومويسميستاري
+wizard_wither | كويهدوتاياميستاري
+maggot_tiny | ليماتوكا
+boss_wizard | ميستاريين ميستاري
+coward | راوكا
+thundermage_big | سور-أوكو
+thunderhound | أوكوسكويرا
+boss_robot | عين كولميسيلما
+skygazer | تايفانكاتسه
+gazer_big | تابع كولميسيلما
+dark_alchemist | ذكرى الشر
+gate_monster_a | فيسكا
+gate_monster_b | مولاري
+gate_monster_c | موكه
+gate_monster_d | سيولا
+physics_pata | باتا
+lukki_dark | كامولوكي
+necromancer_super | سكوده
+snowcrystal | هاموكيفي
+ethereal_being | أوليماتون
+parallel_alchemist | ظل الخيميائي
+parallel_tentacles | تابع كولميسيلما
+hpcrystal | إلفوتوسكريستالي
+necrobot | توونيلانكونه
+necrobot_super | ماراسكونه
+minipit | بينكاتيوري
+scavenger_glue | ليماهيسي
+boss_ghost | المنسي
+boss_ghost_polyp | هايفه
+surge | ساهيكاينن
+spiderbot | راوتالوكي
+piranha | كورمونيسكا
+fish_giga | سيفاأولينتو
+fungus_giga | هوهتاسيني
+fungus_nest | ريهماستو
+sentry | تاركايليا
+neutralizer | بيساهتايا
+hidden | فاكوييليا
+soldier | تيلويتايا
+fungus_tiny | مورككونابيكا
+fungus_tiny_perk | سابيتاتي
+friend | الرفيق
+wizard_homing | كوهدينوسميستاري
+icemage | باكاسوكو
+cook | كوكيهيسي
+firemage_big | سورستنداري
+wand_ghost_charmed | تايكاساوفا
+thunderburst_thundermage | أوكو
+thunderburst | أوكو
+shotgunner_hell | هورناهيسي
+sniper_hell | هورناسنيبوهيسي
+miner_hell | هورنانتابوراهيسي
+meatmaggot | ماتاريوميا
+windshaman | تووليكاينن
+boss_meat | قلب كولميسيلما
+tentaclemass | ساتكيا
+islandspirit | تابع تابيو
+shaman_wind | فالهه
+berserkspirit | فيها-آفه
+confusespirit | أوتو-آفه
+weakspirit | كامو-آفه
+slimespirit | نيفا-آفه
+longleg_huge | سورهاميس
+mimic_potion | هنكيفا بوتو
+boss_sky2 | لوهكاره
+boss_sky | كيفي

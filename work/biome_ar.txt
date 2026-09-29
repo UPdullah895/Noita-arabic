@@ -1,0 +1,99 @@
+biome_boss_arena | المختبر
+biome_boss_victoryroom | العمل العظيم
+biome_coalmine | المناجم
+biome_coalmine_alt | المناجم المنهارة
+biome_crypt | معبد الفن
+biome_desert | الصحراء
+biome_dragoncave | كهف التنين
+biome_ending_placeholder | سرداب الرمز الأعظم
+biome_excavationsite | حفر الفحم
+biome_fungicave | كهوف الفطر
+biome_gold | الذهب
+biome_lake | البحيرة
+biome_lava | البحيرة البركانية
+biome_lavacave | الكهف البركاني
+biome_magic_gate | الملاذ
+biome_null | مجهول
+biome_pyramid | الهرم
+biome_rainforest | الغابة الجوفية
+biome_sandcave | كهف الرمال
+biome_secret_entrance | البوابة الغامضة
+biome_shop_room | المتجر السري
+biome_snowcastle | قاعدة الهيسي
+biome_snowcave | الأعماق الثلجية
+biome_town_under | الممرات الملتوية
+biome_vault | الخزنة
+biome_wandcave | المعبد السحري
+biome_water | الماء
+biome_winter | القفار الثلجية
+biome_holymountain | الجبل المقدس
+biome_east | شرق $0
+biome_west | غرب $0
+biome_tower | البرج
+biome_vault_frozen | الخزنة المتجمدة
+biome_clouds | عالم الغيوم
+biome_liquidcave | المختبر القديم
+biome_secret_lab | مختبر خيمياء مهجور
+biome_weathercrystal | حجرة البلورة
+biomemodifierdesc_moist | الهواء شديد الرطوبة
+biomemodifierdesc_fog_of_war_reappears | ظلام غامض يخيم على هذا المكان
+biomemodifierdesc_conductive | للهواء رائحة متأينة
+biomemodifierdesc_freezing | الهواء متجمد
+biomemodifierdesc_hot | الهواء حار
+biomemodifierdesc_dry | الهواء جاف
+biomemodifierdesc_bouncy | تبدو الأرضيات نطاطة
+biomemodifierdesc_gold_vein | تستشعر فرصا مربحة
+biomemodifierdesc_gold_vein_super | تستشعر فرصا مربحة جدا
+biomemodifierdesc_corrupted | شيء ما ليس على ما يرام هنا
+biomemodifierdesc_flooded | من أين جاء كل هذا الماء؟
+biomemodifierdesc_gas_glooded | في الهواء رائحة غاز
+biomemodifierdesc_toxic | للهواء رائحة سامة
+biomemodifierdesc_vulcanous | للهواء رائحة بركانية
+biomemodifierdesc_haunted | قشعريرة رهيبة تسري في ظهرك
+biomemodifierdesc_rat_infested | في الهواء رائحة جرذان
+biomemodifierdesc_worm_infested | في الهواء رائحة ديدان
+biomemodifierdesc_alchemic | في الهواء روح الفن القديم
+biomemodifierdesc_peaceful | تشعر بالسكينة
+biomemodifierdesc_portal_upwards | تشعر بوجود طريق خاص قريب
+biomemodifierdesc_portal_downwards | تشعر بوجود طريق خاص قريب
+biome_greed_room | قاعة الثروة
+biomemodifierdesc_plant_infested | رائحة كرائحة التراب بعد المطر
+biomemodifierdesc_mechanical | تسمع أصوات آلات
+biomemodifierdesc_furnished | المكان دافئ ومريح
+biomemodifierdesc_booby_trapped | تشعر بالحذر
+biomemodifierdesc_perforated | المكان رحب هنا
+biomemodifierdesc_tunneled | تسمع أصوات بناء خافتة
+biomemodifierdesc_hiisi_invasion | تسمع همهمات الهيسي من بعيد
+biomemodifierdesc_pipes | تسمع أحدا يطرق أنابيب معدنية
+biomemodifierdesc_spooky | يقشعر شعر رقبتك
+biomemodifierdesc_twisted | تشعر كأن رأسك يدور
+biomemodifierdesc_cheery | تشعر بالبهجة
+biomemodifierdesc_ominous | المكان مشؤوم هنا
+biome_orbroom | حجرة الجرم
+biomemodifierdesc_gravity_fields | تشعر بقوة خفية تدفعك وتجذبك
+biomemodifierdesc_fungal | الهواء مليء بأبواغ الفطر
+biomemodifierdesc_shielded | هذا المكان آمن على نحو استثنائي
+biome_wizardcave | وكر السحرة
+biome_rainforest_dark | عرين اللوكي
+biome_mestari_secret | قاعة العرش
+biomemodifierdesc_high_gravity | الهواء ثقيل...
+biomemodifierdesc_low_gravity | الهواء خفيف...
+biome_ghost_secret | الكهف المنسي
+biome_winter_caves | الهوة الثلجية
+biome_robobase | محطة الطاقة
+biome_fun | الكهف المعشوشب
+biome_underwater | الكهف الغارق
+biomemodifierdesc_cool | الهواء بارد جدا...
+biomemodifierdesc_sunlight | كل شيء يتوهج بضوء غامض...!
+biomemodifierdesc_sundark | الأجواء هنا مشؤومة...!
+biomemodifierdesc_fog_of_war_clear_at_player | المكان كئيب هنا
+biomemodifierdesc_invisibility | فجأة يصعب عليك تركيز نظرك...
+biomemodifierdesc_wormy | تسمع زحفا مخيفا في كل مكان!
+biome_meat | عالم اللحم
+biome_labyrinth | المتاهة
+biome_potion_mimics | معبد هنكيفا
+biome_boss_sky2 | معبد لوهكاره
+biome_boss_sky | معبد كيفي
+biome_barren | المعبد القاحل
+biome_darkness | المعبد المشؤوم
+biome_watchtower | برج المراقبة

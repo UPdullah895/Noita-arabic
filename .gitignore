@@ -1,0 +1,18 @@
+# Build output and the release archives
+build/
+dist/
+mod/
+
+# The Python environment the tools run in
+venv/
+
+# Untranslated worklists: the game's own English text, kept locally for reference only.
+# It is Nolla Games' and not ours to publish.
+work/en/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Working notes from development sessions
+NOTES.md

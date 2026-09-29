@@ -1,0 +1,140 @@
+status_wet | مبلل
+statusdesc_wet | الملابس المبللة تحميك من النار.
+status_oiled | مدهون بالزيت
+statusdesc_oiled | الزيت يجعلك زلقا وأكثر قابلية للاشتعال.
+status_bloody | ملطخ بالدم
+statusdesc_bloody | الملابس الملطخة بالدم تحميك من النار.\nتشعر بفرصة أكبر لإحراز ضربات حرجة.
+status_slimy | ملطخ بالوحل
+statusdesc_slimy | الملابس الموحلة تحميك من النار.\nالمخاط يصعب الحركة.
+status_radioactive | مسمم
+statusdesc_radioactive | الحمأة السامة في ملابسك تنقص صحتك ببطء.\nالملابس المبللة تحميك من النار.\nيمكن غسلها بالسوائل.
+status_alcoholic | مخمور
+statusdesc_alcoholic | رائحة الخمر الثقيلة تفوح من ملابسك.\nالتصويب مضطرب.\nوالكحول قابل للاشتعال!
+status_poisoned | مسموم
+statusdesc_poisoned | التسمم ينقص صحتك ببطء.
+status_teleportation | داء الانتقال
+statusdesc_teleportation | تنتقل آنيا دون سيطرة بين حين وآخر.
+status_hp_regeneration | تجدد
+statusdesc_hp_regeneration | تعويذة تجديد الصحة تؤثر فيك.
+status_polymorph | تحول
+statusdesc_polymorph | أنت خروف.
+status_polymorph_random | تحول فوضوي
+statusdesc_polymorph_random | لعنة تحول تؤثر فيك.
+status_berserk | هائج
+statusdesc_berserk | لعنة هيجان تؤثر فيك.
+status_charm | مسحور
+statusdesc_charm | سحر افتتان يؤثر فيك.
+status_invisibility | مخفي
+statusdesc_invisibility | السائل السحري على ملابسك يجعلك مخفيا.\nتضطرب التعويذة إن تلطخت ملابسك أو ابتلت.
+status_on_fire | مشتعل
+statusdesc_on_fire | أنت تحترق. ابحث عن ماء!
+status_reality_mutation | تبدل الواقع
+statusdesc_reality_mutation | تشعر أن الأشياء لم تعد كما كانت.
+status_confusion | مرتبك
+statusdesc_confusion | تشعر بالارتباك.
+status_movement_faster | برق مدهون.
+statusdesc_movement_faster | تشعر بسرعة هائلة.
+status_worm_attractor | طعام الديدان
+statusdesc_worm_attractor | تشعر أنك طعام الديدان مستقبلا.
+status_protection_all | حماية من كل شيء
+statusdesc_protection_all | تشعر بقوة غريبة في جسدك.
+status_mana_regeneration | تجدد المانا
+statusdesc_mana_regeneration | تستعيد المانا أسرع.
+status_internal_fire | نار داخلية
+statusdesc_internal_fire | أنت تحترق من الداخل.
+status_cryptpoison | تسمم بسم قديم
+statusdesc_cryptpoison | تفقد الصحة حتى تجد ترياقا نادرا.
+status_satiated00 | شبع قليل
+statusdesc_satiated00 | معدتك شبه فارغة.
+status_satiated01 | شبعان
+statusdesc_satiated01 | ما زال في معدتك متسع.
+status_satiated02 | شبع تام
+statusdesc_satiated02 | أنت ممتلئ. أي طعام إضافي سيصعب الحركة.
+status_satiated03 | تخمة
+statusdesc_satiated03 | أنت ممتلئ جدا.
+status_satiated04 | تخمة شديدة
+statusdesc_satiated04 | امتلاؤك مقزز. أي طعام إضافي قد يؤذيك.
+status_satiated05 | اختناق
+statusdesc_satiated05 | امتلاؤك مقزز وأنت تختنق.
+status_satiated06 | اختناق وانتفاخ
+statusdesc_satiated06 | بالتأكيد لا ترغب في مزيد من الأكل.
+status_ingestion_damage | اختناق
+statusdesc_ingestion_damage | أي أكل أو شرب إضافي سيؤذيك.
+status_ingestion_exploding | على وشك الانفجار
+statusdesc_ingestion_exploding | أنت ممتلئ لدرجة أنك قد تنفجر.
+status_ingestion_alcoholic_00 | ثمل قليلا
+statusdesc_ingestion_alcoholic_00 | تشعر بدوار خفيف.
+status_ingestion_alcoholic_01 | سكران
+statusdesc_ingestion_alcoholic_01 | شربت أكثر مما ينبغي.\nالتصويب مضطرب.
+status_ingestion_alcoholic_02 | سكران تماما
+statusdesc_ingestion_alcoholic_02 | شربت أكثر بكثير مما ينبغي.\nالتصويب مضطرب.\nالمزيد من الشرب سيجعلك مسموما
+status_ingestion_alcoholic_03 | سكران تماما
+statusdesc_ingestion_alcoholic_03 | شربت أكثر بكثير مما ينبغي.\nالتصويب مضطرب.\nالمزيد من الشرب سيتلف دماغك
+status_brain_damage | تلف دماغي
+statusdesc_brain_damage | تصويبك مضطرب إلى الأبد.
+status_trip_00 | هلوسة
+statusdesc_trip_00 | تشعر أن شيئا ما ليس على ما يرام.
+status_trip_01 | هلوسة متوسطة
+statusdesc_trip_01 | تشعر بالانسجام مع القوى السحرية.
+status_trip_02 | هلوسة شديدة
+statusdesc_trip_02 | يا رجل، لهذا اللون رائحة مثيرة.
+status_trip_03 | هلوسة جامحة
+statusdesc_trip_03 | المفاهيم المعتادة لا تنطبق.
+status_nightvision | رؤية الدودة
+statusdesc_nightvision | ترى الأشياء بوضوح أكبر.
+status_food_poisoning | تسمم غذائي
+statusdesc_food_poisoning | تشعر بالغثيان. لا شيء يبقى في معدتك.
+status_ingestion_movement_slower | حركة خرقاء
+statusdesc_ingestion_movement_slower | الحركة صعبة.
+status_ingestion_freezing | برد
+statusdesc_ingestion_freezing | تشعر ببرد في داخلك. الحركة صعبة.
+status_farts | غازات
+statusdesc_farts | تشعر بضغط في داخلك.
+status_curse_cloud_00 | لعنة المطر
+statusdesc_curse_cloud_00 | تشعر كأن غيمة سوداء تخيم فوقك.
+status_curse_cloud_01 | لعنة الرعد
+statusdesc_curse_cloud_01 | ثقل الغيمة لا يكاد يحتمل. رأسك يؤلمك.
+status_curse_cloud_02 | لعنة المطر الحمضي
+statusdesc_curse_cloud_02 | كل الأفكار الخبيثة التي راودتك يوما تنهمر عليك.
+status_jarate | ملطخ بالبول
+statusdesc_jarate | الملابس المبللة تحميك من النار.\nتشعر بخطر أكبر لتلقي ضربة حرجة.
+status_protection_polymorph | مناعة من التحول
+statusdesc_protection_polymorph | لا يمكن تحويلك.
+status_faster_levitation | تحليق أسرع
+statusdesc_faster_levitation | تحلق أسرع بـ 75%.
+status_twitchy | مرتعش
+statusdesc_twitchy | يدك تتشنج عشوائيا وقد تؤذيك تعاويذك!
+status_hearty | وجع القلب
+statusdesc_hearty | أقصى صحتك منصفة مؤقتا.
+status_weaken | مكشوف
+statusdesc_weaken | مواهبك الدفاعية معطلة مؤقتا.
+status_wither | ذابل
+statusdesc_wither | أنت مؤقتا أضعف أمام كل أنواع الضرر.
+status_blindness | أعمى
+statusdesc_blindness | بالكاد ترى شيئا!
+status_homing_shooter | تعاويذ ترتد إليك
+statusdesc_homing_shooter | تتجه تعاويذك نحوك لفترة.
+status_drunk_ui | سكر سحري
+statusdesc_drunk_ui | تعاويذك أقل دقة وأنت أكثر قابلية للاشتعال لفترة.
+status_movement_slower_ui | حركة أبطأ
+statusdesc_movement_slower_ui | تتحرك أبطأ لفترة.
+status_confusion_ui | ارتباك
+statusdesc_confusion_ui | حركتك مترددة لفترة.
+status_damage_plus_small | تعزيز الضرر
+statusdesc_damage_plus_small | ضررك معزز قليلا لفترة.
+status_curse_wither_projectile | لعنة الإضعاف - المقذوفات
+statusdesc_curse_wither_projectile | تتلقى ضررا إضافيا بـ 25% من المقذوفات.
+status_curse_wither_explosion | لعنة الإضعاف - المتفجرات
+statusdesc_curse_wither_explosion | تتلقى ضررا إضافيا بـ 25% من الانفجارات.
+status_curse_wither_melee | لعنة الإضعاف - الالتحام
+statusdesc_curse_wither_melee | تتلقى ضررا إضافيا بـ 25% من هجمات الالتحام.
+status_curse_wither_electricity | لعنة الإضعاف - الكهرباء
+statusdesc_curse_wither_electricity | تتلقى ضررا إضافيا بـ 25% من الكهرباء.
+status_rainbow_farts | ضراط قوس قزح
+statusdesc_rainbow_farts | افتح عينيك، أرى\nعيناك مفتوحتان\nلا تتنكر لي\nتعال إلى العلن
+status_weaken_combined | مضعف
+statusdesc_weaken_combined | مقاوماتك ومواهبك الدفاعية معطلة مؤقتا.
+status_weakness | ضعف
+statusdesc_weakness | تشعر بالضعف.
+status_mammi_eater | آكل المامي البغيض
+statusdesc_mammi_eater | حصلت على لقب دائم.

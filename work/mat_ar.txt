@@ -1,0 +1,415 @@
+air | هواء
+fire | نار
+spark | شرارة
+spark_green | شرارة
+spark_blue | شرارة
+spark_red | شرارة
+spark_white | شرارة
+spark_yellow | شرارة
+spark_purple | شرارة
+spark_player | شرارة
+spark_teal | شرارة
+spark_electric | شرارة كهربائية
+flame | نار
+sand_static | أرض
+sand_static_rainforest | أرض خصبة
+bone_static | جدار عظام
+rust_static | معدن صدئ
+sand_static_bright | أرض غرانيتية
+sand_static_red | أرض صدئة
+nest_static | عش
+bluefungi_static | فطر أزرق
+cheese_static | جبن
+rock_static | صخر
+rock_static_intro | صخر
+water_static | ماء
+endslime_static | وحل الجحيم
+slime_static | وحل
+rock_hard | صخر كثيف
+rock_static_noedge | صخر
+rock_hard_border | صخر شديد الكثافة
+rock_magic_gate | بوابة سحرية
+rock_magic_bottom | جدار سحري
+rock_eroding | صخر متآكل
+rock_vault | صخر الخزنة
+coal_static | عرق فحم
+rock_static_grey | صخر رمادي
+rock_static_radioactive | صخر سام
+rock_static_poison | صخر مسموم
+skullrock | صخر الجحيم
+rock_static_wet | صخر رطب
+lavarock_static | صخر بركاني
+lava | حمم
+meteorite_static | نيزك
+templerock_static | بناء حجري
+templebrick_static | بناء حجري
+templebrick_noedge_static | بناء حجري
+templebrick_thick_static | بناء حجري
+templebrickdark_static | بناء حجري
+templeslab_static | بناء حجري
+templeslab_crumbling_static | بناء حجري
+glowstone | حجر متوهج
+glowstone_altar | حجر متوهج
+glowstone_potion | حجر متوهج
+templebrick_red | بناء حجري
+templebrick_moss_static | بناء حجري طحلبي
+the_end | صخر الجحيم
+steel_static | فولاذ
+steelmoss_static | فولاذ طحلبي
+steelmoss_slanted | فولاذ طحلبي
+steelsmoke_static | فولاذ مدخن
+steelpipe_static | أنبوب معدني
+steel_static_strong | فولاذ كثيف
+steel_static_unmeltable | فولاذ مقسى
+rock_static_glow | مادة متوهجة
+snow_static | ثلج مضغوط
+ice_static | جليد
+rock_static_intro_breakable | صخر
+ice_blood_static | دم متجمد
+ice_acid_static | حمض متجمد
+ice_cold_static | جليد
+ice_radioactive_static | جليد سام
+ice_meteor_static | جليد
+tubematerial | أنبوب نيون
+glass_static | زجاج
+waterrock | صخر
+ice_glass | جليد
+tube_physics | أنبوب نيون
+ice_acid_glass | حمض متجمد
+ice_cold_glass | جليد
+ice_radioactive_glass | جليد سام
+ice_glass_b2 | جليد
+glass_brittle | زجاج هش
+snowrock_static | صخر متجمد
+concrete_static | خرسانة
+wood_static | خشب
+wood_static_wet | خشب رطب
+creepy_liquid_emitter | جدار طوب
+gold_static | عرق ذهب
+gold_static_dark | عرق ذهب لامع
+wood_static_vertical | خشب
+wood_static_gas | خشب مضغوط
+corruption_static | صخر فاسد
+smoke | دخان
+smoke_explosion | دخان
+steam | بخار
+acid_gas | غاز قابل للاشتعال
+acid_gas_static | غاز قابل للاشتعال
+smoke_static | دخان
+poison_gas | غاز سام
+fungal_gas | غاز فطري
+blood_cold_vapour | بخار متجمد
+sand_herb_vapour | بخار غريب
+radioactive_gas | غاز سام
+radioactive_gas_static | غاز سام
+water | ماء
+water_fading | ماء
+water_salt | ماء مالح
+water_temp | ماء
+water_ice | ماء بارد
+water_swamp | مستنقع
+oil | زيت
+liquid_fire_weak | نار سائلة
+alcohol | ويسكي
+midas_precursor | سلف خيميائي
+midas | شراب ميداس
+magic_liquid | فاتح البوابات
+magic_liquid_teleportation | مادة الانتقال
+magic_liquid_hp_regeneration | مادة الشفاء
+magic_liquid_hp_regeneration_unstable | خليط منعش
+magic_liquid_polymorph | مادة التحول
+magic_liquid_random_polymorph | مادة التحول الفوضوي
+magic_liquid_berserk | مادة الهيجان
+magic_liquid_charm | فيرومون
+magic_liquid_invisibility | مادة الإخفاء
+cloud | سحابة
+cloud_radioactive | ضباب سام
+cloud_alcohol | ضباب كحولي
+cloud_blood | ضباب دموي
+cloud_slime | ضباب وحلي
+swamp | مستنقع
+mud | طين
+blood_fading_slow | دم فطري
+blood_worm | دم الدودة
+blood_cold | سائل متجمد
+radioactive_liquid | حمأة سامة
+radioactive_liquid_fading | حمأة سامة
+plasma_fading | سائل سحري
+plasma_fading_green | سائل سحري
+plasma_fading_pink | سائل سحري
+gold_molten | ذهب منصهر
+steel_static_molten | فولاذ منصهر
+steelmoss_slanted_molten | فولاذ منصهر
+steelmoss_static_molten | فولاذ منصهر
+steelsmoke_static_molten | فولاذ منصهر
+metal_molten | معدن منصهر
+metal_rust_molten | معدن منصهر
+metal_nohit_molten | معدن منصهر
+aluminium_molten | ألمنيوم منصهر
+aluminium_robot_molten | ألمنيوم منصهر
+metal_prop_molten | معدن منصهر
+steel_rust_molten | فولاذ منصهر
+aluminium_oxide_molten | ألمنيوم منصهر
+wax_molten | شمع منصهر
+silver_molten | فضة منصهرة
+copper_molten | نحاس منصهر
+brass_molten | نحاس أصفر منصهر
+glass_molten | زجاج منصهر
+glass_broken_molten | زجاج منصهر
+steel_molten | معدن منصهر
+creepy_liquid | سائل مريب
+cement | إسمنت
+sand | رمل
+sand_blue | رمل أزرق
+lavasand | رمل بركاني
+bone | غبار عظام
+soil | تربة
+soil_dead | تربة قاحلة
+sandstone | حجر رملي
+fungisoil | تربة فطرية
+honey | عسل
+pea_soup | حساء البازلاء
+endslime | وحل الجحيم
+endslime_blood | وحل الجحيم
+explosion_dirt | تراب
+vine | كرمة
+root | كرمة
+snow | ثلج
+rotten_meat | لحم متعفن
+meat_slime_sand | لحم لزج
+meat_slime_green | لحم لزج أخضر
+meat_slime_orange | لحم لزج
+rotten_meat_radioactive | لحم سام
+meat_worm | لحم الدودة
+ice | جليد
+wax | شمع
+gold | ذهب
+gold_radioactive | ذهب سام
+copper | نحاس
+silver | فضة
+coal | فحم
+brass | نحاس أصفر
+burning_powder | مسحوق مشتعل
+sodium_unstable | صوديوم رطب
+gunpowder | بارود
+gunpowder_tnt | بارود
+gunpowder_unstable | بارود
+gunpowder_unstable_boss_limbs | لحم لزج
+plastic_red | بلاستيك
+plastic_red_molten | بلاستيك منصهر
+plastic_molten | بلاستيك منصهر
+plastic_prop_molten | بلاستيك منصهر
+grass | عشب
+moss | طحلب
+moss_rust | طحلب صدئ
+fungi_green | فطر
+spore | بذرة
+plant_material_red | بذرة
+ceiling_plant_material | بذرة
+mushroom_seed | بوغ فطري
+plant_seed | بذرة نبات
+mushroom | بوغ فطري
+mushroom_giant_red | بوغ فطري
+mushroom_giant_blue | بوغ فطري
+bush_seed | بذرة دائمة الخضرة
+acid | حمض
+wood_player_b2 | خشب
+wood_player_b2_vertical | خشب
+wood | خشب
+fuse | قنبلة
+fuse_tnt | ديناميت
+fuse_holy | مادة مقدسة
+templebrick_box2d | بناء حجري
+wood_trailer | خشب
+wood_wall | خشب
+cactus | عشب
+grass_loose | مادة فطرية
+wood_prop | خشب
+wood_prop_durable | خشب متين
+nest_box2d | عش
+cocoon_box2d | شرنقة
+wood_loose | خشب
+rock_loose | صخر
+ice_ceiling | جليد
+brick | جدار طوب
+concrete_collapsed | خرسانة منهارة
+tnt | ديناميت
+trailer_text | نص
+meteorite | نيزك
+meteorite_crackable | نيزك
+meteorite_green | نيزك أخضر
+steel | فولاذ
+steel_rust | فولاذ صدئ
+metal_rust_rust | معدن صدئ
+metal_rust_barrel_rust | معدن صدئ
+plastic | بلاستيك
+aluminium | ألمنيوم
+metal_prop | معدن
+metal | معدن
+rock_box2d_hard | صخر
+rock_box2d_nohit | صخر
+rock_box2d_nohit_hard | صخر كثيف
+rock_static_box2d | صخر
+rock_box2d | صخر
+item_box2d | غرض
+gem_box2d | جوهرة
+potion_glass_box2d | زجاج
+glass_box2d | زجاج
+gem_box2d_pink | جوهرة
+gem_box2d_red | جوهرة
+gem_box2d_green | جوهرة
+gem_box2d_orange | جوهرة
+gold_box2d | ذهب
+metal_nohit | معدن
+metal_rust | معدن صدئ
+metal_rust_barrel | معدن صدئ
+bone_box2d | عظم
+crystal | بلورة
+crystal_purple | بلورة بنفسجية
+crystal_magic | بلورة
+aluminium_oxide | ألمنيوم
+meat | لحم
+urine | بول
+poo | براز
+rocket_particles | دخان
+ice_melting_perf_killer | جليد
+ice_b2 | جليد
+glass | زجاج
+neon_tube_purple | أنبوب نيون
+neon_tube_cyan | أنبوب نيون
+neon_tube_blood_red | أنبوب نيون
+blood_thick | دم
+snow_b2 | ثلج
+diamond | ألماس
+meat_slime | لحم لزج
+concrete_sand | خرسانة
+blood | دم
+blood_fading | دم
+gunpowder_explosive | بارود
+fungi | فطر
+plant_material | مادة نباتية
+wood_player | خشب
+wax_b2 | شمع
+physics_throw_material_part2 | من يدري
+fire_blue | نار
+gold_b2 | ذهب
+fungus_loose | فطر
+sodium | صوديوم
+sulphur | كبريت
+salt | ملح
+steel_sand | فولاذ
+slime_green | وحل
+slime_pink | وحل
+soil_lush | تربة
+radioactive_liquid_yellow | حمأة سامة
+liquid_fire | نار
+smoke_magic | دخان
+sand_herb | عشبة
+ice_poison_static | سم متجمد
+ice_poison_glass | سم متجمد
+ice_slime_static | وحل متجمد
+ice_slime_glass | وحل متجمد
+ice_blood_glass | دم متجمد
+void_liquid | سائل العدم
+fungi_creeping | فطر غامض
+purifying_powder | مسحوق مطهر
+magic_crystal | بلورة سحرية
+rock_static_cursed | صخر ملعون
+steelfrost_static | فولاذ متجمد
+slush | ثلج ذائب
+poison | سم
+alcohol_gas | أبخرة الويسكي
+vomit | قيء
+blood_fungi | دم الفطر
+glowshroom | بوغ فطري متوهج
+fungi_trippy | فطر غريب
+sima | سيما
+glass_liquidcave | زجاج مقسى
+templebrick_static_ruined | جدار طوب مهدم
+templebrick_brittle | بناء حجري هش
+rock_brittle | صخر هش
+antidote | ترياق
+confusion | مادة الحيرة
+magic_liquid_movement_faster | مادة التسارع
+magic_liquid_worm_attractor | فيرومون الديدان
+magic_liquid_protection_all | أمبروسيا
+magic_liquid_mana_regeneration | مانا مركزة
+meat_helpless | لحم مخلوق بريء
+meat_trippy | لحم غريب
+meat_cursed | لحم ملعون
+meat_slime_cursed | لحم ملعون لزج
+meat_teleport | لحم أثيري
+meat_polymorph | لحم غير مستقر
+meat_confusion | لحم ملتبس
+bloodgold_box2d | ياقوت
+magic_liquid_faster_levitation | مادة التحليق
+magic_liquid_faster_levitation_and_movement | مادة العجلة
+magic_gas_hp_regeneration | غاز الشفاء
+meat_polymorph_protection | لحم نتن
+meat_frog | لحم الضفدع
+templebrick_weak | بناء حجري ضعيف
+magic_liquid_unstable_polymorph | مادة تحول غير مستقرة
+magic_liquid_unstable_teleportation | مادة انتقال غير مستقرة
+magic_liquid_unstable_hp_regeneration | مادة شفاء غير مستقرة
+magic_liquid_unstable_berserk | مادة هيجان غير مستقرة
+magic_liquid_unstable_charm | فيرومون غير مستقر
+magic_liquid_unstable_invisibility | مادة إخفاء غير مستقرة
+templebrick_golden_static | ذهب المغفلين
+templebrick_diamond_static | بناء ألماسي
+meat_spider | لحم العنكبوت
+blood_spider | دم العنكبوت
+blood_frog | دم الضفدع
+meat_fast | لحم مرتجف
+rock_static_cursed_green | صخر بلعنة الجشع
+cursed_liquid | سائل بلعنة الجشع
+feces | فضلات
+gas_smelly | بخار كريه
+peat | خث
+meat_fruit | لب الفاكهة
+monster_powder_test | مسحوق وحشي
+wizardstone | بناء حجري غريب
+drape | ستائر
+darkstone | صخر داكن
+rat_powder | مسحوق الجرذان
+poo_gas | غاز مقزز
+orb_powder | مسحوق مرشد
+darkness | سائل مشؤوم
+metal_sand | غبار معدني
+metal_sand_molten | معدن منصهر
+gem_box2d_turquoise | حجر فيروز
+porridge | عصيدة دسمة
+rainbow | قوس قزح
+rainbow_gas | ضراط وحيد القرن
+steelrusted | فولاذ صدئ
+glue | غراء
+healsand | مسحوق منعش
+steel_strong | فولاذ مقسى
+meat_warm | لحم مطهو قليلا
+meat_hot | لحم مطهو
+meat_done | لحم مطهو جيدا
+meat_burned | لحم محروق
+peasoup_concentrate | مركز حساء البازلاء
+mammi | مامي
+juhannussima | سيما منتصف الصيف
+material_confusion | مادة الحيرة
+static_magic_material | أستراليوم
+magic_gas_midas | غاز ميداس
+magic_gas_worm_blood | غاز الدودة
+pus | صديد
+magic_gas_polymorph | سحابة التحول
+magic_gas_weakness | سحابة الإضعاف
+magic_gas_teleport | سحابة الانتقال
+magic_gas_fungus | سحابة غريبة
+magic_liquid_death | مادة الموت الفوري
+magic_gas_confuse | سحابة الحيرة
+magic_gas_berserk | سحابة الهيجان
+magic_gas_charm | سحابة الفيرومون
+mimic_liquid | مادة المحاكاة
+grass_holy | الأرض الإلهية
+beer | جعة
+milk | حليب
+molut | مولوت
+ice_beer | جعة متجمدة
+ice_milk | حليب متجمد
+ice_molut | مولوت متجمد
+ice_vomit | قيء متجمد
