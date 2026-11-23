@@ -10,9 +10,9 @@ python -m venv venv && ./venv/bin/pip install -r requirements.txt
 tools/release.sh                          # dist/NoitaArabic-<VERSION>.zip: mod + both installers + licences
 ```
 
-`NOITA` at the top of `tools/build_mod.py` (and `build_font.py`, `extract.py`) points at the
-game install. The build reads the stock CSV and fonts from there. It never writes anywhere
-except `mods/translation_ar`.
+`NOITA_DIR` (or, failing that, the default path at the top of `tools/build_mod.py`) points at
+the game install; `build_font.py` and `extract.py` read the same variable. The build reads the
+stock CSV and fonts from there. It never writes anywhere except `mods/translation_ar`.
 
 To translate a batch, write `suffix | text` lines to `work/<group>_ar.txt` and convert them:
 

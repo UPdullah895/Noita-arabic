@@ -6,7 +6,9 @@ still lack an Arabic translation in src/ar/.
 """
 import csv, glob, json, os, re
 
-NOITA = "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Noita"
+# Set NOITA_DIR to point at your own install.
+NOITA = os.environ.get(
+    "NOITA_DIR", "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Noita")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 GROUPS = [  # (group name, key regex) -- first match wins

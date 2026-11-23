@@ -6,7 +6,9 @@ from arabize import arabize
 from wrap import Metrics, limit_for, wrap
 from extract import load_ar
 
-NOITA = "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Noita"
+# Set NOITA_DIR to point at your own install.
+NOITA = os.environ.get(
+    "NOITA_DIR", "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Noita")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MOD = os.path.join(ROOT, "mod")
 

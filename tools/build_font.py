@@ -25,7 +25,9 @@ sys.path.insert(0, os.path.dirname(__file__))
 from fit_glyph import fit
 from glyph_overrides import OVERRIDES, DONORS, COMPACT
 
-NOITA = "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Noita"
+# Set NOITA_DIR to point at your own install.
+NOITA = os.environ.get(
+    "NOITA_DIR", "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Noita")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PIXEL_AE = os.path.join(ROOT, "fonts", "PixelAE-Regular.ttf")
 QUAD = re.compile(r'<QuadChar id="(\d+)".*?rect_w="(\d+)" rect_x="(\d+)"')
